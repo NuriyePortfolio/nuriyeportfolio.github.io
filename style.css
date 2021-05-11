@@ -192,6 +192,7 @@ h3{
 }
 .mailicon{
   float:right;
+  width: 400px;
 }
 .gallery{
   padding: 10px;
@@ -219,4 +220,7 @@ h3{
   .img{
     margin: 10px 0;
   }
+  .mailicon{
+      width: 200px;
+}
 }
